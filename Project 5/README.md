@@ -1,3 +1,7 @@
+<img width="416" height="458" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/9e7ea03d-c4ab-49ec-827d-5e1f57099943" />
+
+
+
 😄 Real-Time Emotion Detection System
 A real-time facial emotion recognition system built with Python, OpenCV, and a custom-trained Keras deep learning model — no third-party AI APIs required.
 
